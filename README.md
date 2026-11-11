@@ -10,7 +10,7 @@
 [![Canlı Platform](https://img.shields.io/badge/Canlı%20Platform-aigunluk.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://aigunluk.vercel.app)
 [![Yapay Zeka](https://img.shields.io/badge/Yapay%20Zeka-Otonom%20Kürasyon-6366F1?style=for-the-badge)](https://aigunluk.vercel.app)
 [![Platform](https://img.shields.io/badge/Platform-PWA%20%E2%80%A2%20Web-0070F3?style=for-the-badge&logo=pwa&logoColor=white)](https://aigunluk.vercel.app)
-[![Geliştirici](https://img.shields.io/badge/Geliştirici-@strangervibe-black?style=for-the-badge&logo=github)](https://github.com/strangervibe)
+[![Geliştirici](https://img.shields.io/badge/Geliştirici-@strangerforge-black?style=for-the-badge&logo=github)](https://github.com/strangerforge)
 
 <br/>
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/🚀%20Canlı%20Platformu%20Aç-aigunluk.vercel.app-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Canlı Platformu Aç" />
 </a>
 &nbsp;
-<a href="https://github.com/strangervibe/aigunluk">
+<a href="https://github.com/strangerforge/aigunluk">
   <img src="https://img.shields.io/badge/GitHub-Depoyu%20Yıldızla%20★-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Yıldızla" />
 </a>
 
@@ -66,10 +66,10 @@ AI Günlük'ü uygulama mağazalarına ihtiyaç duymadan doğrudan telefonunuza 
 
 <div align="center">
 
-Geliştirici: [**@strangervibe**](https://github.com/strangervibe)
+Geliştirici: [**@strangerforge**](https://github.com/strangerforge)
 
-[![GitHub](https://img.shields.io/badge/Geliştirici-strangervibe-181717?style=flat-square&logo=github)](https://github.com/strangervibe)
-[![Niyaz](https://img.shields.io/badge/Diğer%20Proje-Niyaz%20Mobile-1B6B4A?style=flat-square&logo=appveyor)](https://github.com/strangervibe/Niyaz)
+[![GitHub](https://img.shields.io/badge/Geliştirici-strangerforge-181717?style=flat-square&logo=github)](https://github.com/strangerforge)
+[![Niyaz](https://img.shields.io/badge/Diğer%20Proje-Niyaz%20Mobile-1B6B4A?style=flat-square&logo=appveyor)](https://github.com/strangerforge/Niyaz)
 [![AI Günlük](https://img.shields.io/badge/Canlı-AI%20Günlük-4F46E5?style=flat-square&logo=vercel)](https://aigunluk.vercel.app)
 
 </div>
