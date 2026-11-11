@@ -1,6 +1,11 @@
 <div align="center">
 
-# 📰 AI Günlük
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://aigunluk.vercel.app/icons/icon-dark.svg" />
+  <img src="https://aigunluk.vercel.app/icons/icon.svg" width="104" height="104" alt="AI Günlük Logo" />
+</picture>
+
+# AI Günlük
 ### Global ve Türkiye Yapay Zeka Haberleri & Türkçe Hap Özetler
 
 *Global ve Türkiye yapay zeka ekosistemini 7/24 tarayan, hap özetlere dönüştüren tam otonom haber ve radar platformu.*
@@ -25,7 +30,7 @@
 <br/><br/>
 
 <a href="https://aigunluk.vercel.app">
-  <img src="https://aigunluk.vercel.app/icons/og-image.jpg" width="100%" alt="AI Günlük Sosyal Medya Önizleme Görseli" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="https://aigunluk.vercel.app/icons/og-image.jpg?v=2" width="100%" alt="AI Günlük Sosyal Medya Önizleme Görseli" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </a>
 
 </div>
