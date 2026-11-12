@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://aigunluk.vercel.app/icons/icon-dark.svg" />
-  <img src="https://aigunluk.vercel.app/icons/icon.svg" width="104" height="104" alt="AI Günlük Logo" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://aigunluk.vercel.app/icons/icon-dark.svg?v=3" />
+  <img src="https://aigunluk.vercel.app/icons/icon.svg?v=3" width="104" height="104" alt="AI Günlük Logo" />
 </picture>
 
 # AI Günlük
@@ -30,7 +30,7 @@
 <br/><br/>
 
 <a href="https://aigunluk.vercel.app">
-  <img src="https://aigunluk.vercel.app/icons/og-image.jpg?v=2" width="100%" alt="AI Günlük Sosyal Medya Önizleme Görseli" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="https://aigunluk.vercel.app/icons/og-image.jpg?v=3" width="100%" alt="AI Günlük Sosyal Medya Önizleme Görseli" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </a>
 
 </div>
