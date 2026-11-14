@@ -6,9 +6,9 @@
 </picture>
 
 # AI Günlük
-### Global ve Türkiye Yapay Zeka Haberleri & Türkçe Hap Özetler
+### Küresel Yapay Zeka Gündemi, Araştırmalar ve Türkçe Özetler
 
-*Global ve Türkiye yapay zeka ekosistemini 7/24 tarayan, hap özetlere dönüştüren tam otonom haber ve radar platformu.*
+*Yapay zeka ekosisteminden anlık gelişmeler ve özetler sunan, tam makale içeriğine dayalı kapsamlı Türkçe haber platformu.*
 
 <br/>
 
@@ -41,7 +41,7 @@
 
 **AI Günlük**, yapay zeka dünyasında her gün yayınlanan yüzlerce makale, model lansmanı, teknik araştırma ve sosyal medya tartışmalarını takip etmeyi kolaylaştıran **otonom bir haber ve radar platformudur**.
 
-Geleneksel haber sitelerinin aksine tık tuzağı (clickbait) başlıklara ve gereksiz laf kalabalığına yer vermez. Arka planda 7/24 çalışan akıllı veri motoru, dünya ve Türkiye gündemini tarar; **gelişmiş yapay zeka kürasyon motoru** ile her bir gelişmeyi **2 dakikada okunabilen net Türkçe hap özetlere ve maddelere (key points)** dönüştürür.
+Geleneksel haber sitelerinin aksine tık tuzağı (clickbait) başlıklara ve kalıp şablonlara yer vermez. Arka planda otomatik çalışan veri motoru, dünya ve Türkiye gündemini tarar; **tam makale çıkarım ve yapay zeka kürasyon motoru** ile her bir gelişmeyi haberin tüm önemli olgularını içeren **5–7 cümlelik kapsamlı Türkçe özetlere** dönüştürür.
 
 ---
 
@@ -49,13 +49,13 @@ Geleneksel haber sitelerinin aksine tık tuzağı (clickbait) başlıklara ve ge
 
 | Özellik | Açıklama |
 | :--- | :--- |
-| 🤖 **Otonom AI Kürasyonu** | Global ve yerel teknoloji ekosistemini 7/24 otomatik tarar ve yapay zeka ile önem sırasına dizer. |
-| 💡 **Türkçe Hap Özetler (TL;DR)** | Her haber için 1-2 cümlelik vurucu özet ve en kritik 3 maddelik hap bilgi çıkartır. |
-| 🔥 **Sosyal Radar (YouTube & X)** | Sosyal medyada en çok ses getiren yapay zeka videolarını, podcast'leri ve tartışmaları anlık akışa dahil eder. |
-| ⚡ **Spotlight & Trend Havuzu** | Günün en çok etkileşim alan ve ekosistemi sarsan 1 numaralı lider haberini öne çıkarır. |
+| 🤖 **Otonom AI Kürasyonu** | Global ve yerel teknoloji ekosistemini otomatik tarar ve etkileşim skoruna göre önem sırasına dizer. |
+| 💡 **Kapsamlı Türkçe Özetler** | Her haberin tam metnini okuyup analiz ederek kalıp maddeler yerine 5–7 cümlelik yoğun ve net Türkçe özet sunar. |
+| 🔥 **Sosyal Radar (YouTube & X)** | Sosyal medyada en çok ses getiren yapay zeka gelişmelerini ve tartışmaları tam haber bağlamıyla akışa dahil eder. |
+| ⚡ **Manşet Bento Vitrini & Öne Çıkanlar** | Günün en yüksek etkileşim alan lider haberini manşete taşır ve dönemsel öne çıkan gelişmeleri sıralar. |
 | 📱 **PWA & Çevrimdışı Okuma** | Telefon ve masaüstüne doğrudan uygulama olarak yüklenebilir. Çevrimdışı desteğiyle internet olmadan da son bülten okunabilir. |
-| 📂 **Kategori & Akıllı Filtreleme** | Yapay Zeka Modelleri, Otonom Ajanlar, Donanım, Açık Kaynak, Güvenlik gibi kategorilere anında erişim. |
-| 🌙 **Obsidian Koyu Tasarım** | Göz yormayan modern cam efektli (glassmorphism) karanlık arayüz ve sıfır gecikmeli minimalist mimari. |
+| 📂 **Kategori & Akıllı Filtreleme** | Büyük Dil Modelleri, Açık Kaynak & Kod, Bilimsel Araştırma, Yapay Zeka Araçları ve Sektör & Yatırım kategorilerine anında erişim. |
+| 📰 **İsviçre Editoryal Tasarım** | Yüksek okunabilirlik odaklı Sıcak Fildişi açık tema, Karbon Koyu gece modu ve yalın tipografik arayüz. |
 
 ---
 
