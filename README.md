@@ -69,6 +69,10 @@ AI Günlük'ü uygulama mağazalarına ihtiyaç duymadan doğrudan telefonunuza 
 
 ---
 
+## 📄 Lisans
+
+Bu depo [MIT Lisansı](./LICENSE) altında sunulmaktadır.
+
 <div align="center">
 
 Geliştirici: [**@strangerforge**](https://github.com/strangerforge)
