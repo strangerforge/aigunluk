@@ -6,79 +6,68 @@
 </picture>
 
 # AI Günlük
-### Küresel Yapay Zeka Gündemi, Araştırmalar ve Türkçe Özetler
+### Autonomous AI News Radar &amp; Full-Article Turkish Editorial Briefings
 
-*Yapay zeka ekosisteminden anlık gelişmeler ve özetler sunan, tam makale içeriğine dayalı kapsamlı Türkçe haber platformu.*
+*An automated AI news and signal platform scanning global and Turkish AI ecosystems 24/7, extracting full articles into crisp Turkish briefings.*
 
-<br/>
-
-[![Canlı Platform](https://img.shields.io/badge/Canlı%20Platform-aigunluk.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://aigunluk.vercel.app)
-[![Yapay Zeka](https://img.shields.io/badge/Yapay%20Zeka-Otonom%20Kürasyon-6366F1?style=for-the-badge)](https://aigunluk.vercel.app)
-[![Platform](https://img.shields.io/badge/Platform-PWA%20%E2%80%A2%20Web-0070F3?style=for-the-badge&logo=pwa&logoColor=white)](https://aigunluk.vercel.app)
-[![Geliştirici](https://img.shields.io/badge/Geliştirici-@strangerforge-black?style=for-the-badge&logo=github)](https://github.com/strangerforge)
+🇬🇧 **English** · 🇹🇷 [**Türkçe**](./README.tr.md)
 
 <br/>
 
-<a href="https://aigunluk.vercel.app">
-  <img src="https://img.shields.io/badge/🚀%20Canlı%20Platformu%20Aç-aigunluk.vercel.app-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Canlı Platformu Aç" />
-</a>
-&nbsp;
-<a href="https://github.com/strangerforge/aigunluk">
-  <img src="https://img.shields.io/badge/GitHub-Depoyu%20Yıldızla%20★-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Yıldızla" />
-</a>
+<a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Live%20Platform-aigunluk.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" /></a>&nbsp;<a href="https://github.com/strangerforge/aigunluk/releases/latest"><img src="https://img.shields.io/github/v/release/strangerforge/aigunluk?style=for-the-badge&color=6366F1&label=Release" alt="Latest Release" /></a>&nbsp;<img src="https://img.shields.io/badge/Platform-PWA%20%E2%80%A2%20Web-0070F3?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA & Web" />&nbsp;<a href="https://github.com/strangerforge"><img src="https://img.shields.io/badge/Creator-@strangerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="Creator" /></a>
 
 <br/><br/>
 
-<a href="https://aigunluk.vercel.app">
-  <img src="https://aigunluk.vercel.app/icons/og-image.jpg?v=4" width="100%" alt="AI Günlük Sosyal Medya Önizleme Görseli" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-</a>
+<a href="https://aigunluk.vercel.app"><img src="https://aigunluk.vercel.app/icons/og-image.jpg?v=4" width="100%" alt="AI Günlük Platform Preview" /></a>
 
 </div>
 
 ---
 
-## ✨ AI Günlük Nedir?
-
-**AI Günlük**, yapay zeka dünyasında her gün yayınlanan yüzlerce makale, model lansmanı, teknik araştırma ve sosyal medya tartışmalarını takip etmeyi kolaylaştıran **otonom bir haber ve radar platformudur**.
-
-Geleneksel haber sitelerinin aksine tık tuzağı (clickbait) başlıklara ve kalıp şablonlara yer vermez. Arka planda otomatik çalışan veri motoru, dünya ve Türkiye gündemini tarar; **tam makale çıkarım ve yapay zeka kürasyon motoru** ile her bir gelişmeyi haberin tüm önemli olgularını içeren **5–7 cümlelik kapsamlı Türkçe özetlere** dönüştürür.
+> **Repository Scope:** This repository is the official **platform hub, changelog, and issue tracker** for **AI Günlük** (`https://aigunluk.vercel.app`). Source code is maintained privately; please use [Issues](https://github.com/strangerforge/aigunluk/issues) for bug reports, source suggestions, and feature requests.
 
 ---
 
-## 🌟 Öne Çıkan Özellikler
+## ✨ What is AI Günlük?
 
-| Özellik | Açıklama |
+**AI Günlük** is an **autonomous AI news and signal radar** built to cut through the noise of hundreds of daily AI launches, research papers, open-source releases, and social discussions.
+
+Instead of clickbait headlines or shallow one-liners, its automated pipeline monitors global and Turkish ecosystems continuously, extracts full article content, and synthesizes each story into a **dense 5–7 sentence Turkish (TR) editorial briefing** grounded in concrete facts.
+
+---
+
+## 🌟 Key Features
+
+| Feature | Description |
 | :--- | :--- |
-| 🤖 **Otonom AI Kürasyonu** | Global ve yerel teknoloji ekosistemini otomatik tarar ve etkileşim skoruna göre önem sırasına dizer. |
-| 💡 **Kapsamlı Türkçe Özetler** | Her haberin tam metnini okuyup analiz ederek kalıp maddeler yerine 5–7 cümlelik yoğun ve net Türkçe özet sunar. |
-| 🔥 **Sosyal Radar (YouTube & X)** | Sosyal medyada en çok ses getiren yapay zeka gelişmelerini ve tartışmaları tam haber bağlamıyla akışa dahil eder. |
-| ⚡ **Manşet Bento Vitrini & Öne Çıkanlar** | Günün en yüksek etkileşim alan lider haberini manşete taşır ve dönemsel öne çıkan gelişmeleri sıralar. |
-| 📱 **PWA & Çevrimdışı Okuma** | Telefon ve masaüstüne doğrudan uygulama olarak yüklenebilir. Çevrimdışı desteğiyle internet olmadan da son bülten okunabilir. |
-| 📂 **Kategori & Akıllı Filtreleme** | Büyük Dil Modelleri, Açık Kaynak & Kod, Bilimsel Araştırma, Yapay Zeka Araçları ve Sektör & Yatırım kategorilerine anında erişim. |
-| 📰 **İsviçre Editoryal Tasarım** | Yüksek okunabilirlik odaklı Sıcak Fildişi açık tema, Karbon Koyu gece modu ve yalın tipografik arayüz. |
+| 🤖 **Autonomous AI Curation** | Continuously scans global and local AI ecosystems and ranks stories by relevance and engagement signals. |
+| 💡 **Full-Article Turkish Briefings** | Reads and distills complete source articles into structured 5–7 sentence Turkish summaries without filler. |
+| 🔥 **Social Radar (YouTube &amp; X)** | Surfaces high-signal AI discussions and launches from social platforms with full editorial context. |
+| ⚡ **Headline Bento &amp; Highlights** | Elevates the day's top story into a clean bento showcase alongside periodic highlights. |
+| 📱 **Installable PWA &amp; Offline Reading** | Installs directly to mobile or desktop home screens with offline caching for the latest briefing. |
+| 📂 **Smart Category Filtering** | Instant filtering across LLMs, Open Source &amp; Code, Scientific Research, AI Tools, and Industry &amp; Funding. |
+| 📰 **Swiss Editorial Design** | High-readability Warm Ivory light mode and Carbon Dark night mode with crisp typographic hierarchy. |
 
 ---
 
-## 📲 Mobil Kurulum (PWA)
+## 📲 Mobile &amp; Desktop Install (PWA)
 
-AI Günlük'ü uygulama mağazalarına ihtiyaç duymadan doğrudan telefonunuza kurabilirsiniz:
+Install **AI Günlük** directly from your browser without an app store:
 
-1. Telefonunuzun tarayıcısından (Safari / Chrome) **[aigunluk.vercel.app](https://aigunluk.vercel.app)** adresini açın.
-2. Tarayıcı menüsünden **"Ana Ekrana Ekle"** (veya *"Uygulamayı Yükle"*) seçeneğine dokunun.
-3. Artık ana ekranınızdan tek dokunuşla tam ekran ve uygulama akıcılığında haberleri takip edebilirsiniz.
+1. Open **[aigunluk.vercel.app](https://aigunluk.vercel.app)** in Safari or Chrome.
+2. Tap **"Add to Home Screen"** (or **"Install App"**) in your browser menu.
+3. Launch full-screen from your home screen with offline reading support.
 
 ---
 
-## 📄 Lisans
+## 📝 Feedback, Changelog &amp; Terms
 
-Bu depo [MIT Lisansı](./LICENSE) altında sunulmaktadır.
+- **Changelog:** See [CHANGELOG.md](./CHANGELOG.md) and [Releases](https://github.com/strangerforge/aigunluk/releases).
+- **Bug Reports &amp; Suggestions:** Open an issue in [Issues](https://github.com/strangerforge/aigunluk/issues).
+- **License &amp; Terms:** **AI Günlük** is free to use on the web as a closed-source platform. All rights reserved by **@strangerforge**.
 
 <div align="center">
 
-Geliştirici: [**@strangerforge**](https://github.com/strangerforge)
-
-[![GitHub](https://img.shields.io/badge/Geliştirici-strangerforge-181717?style=flat-square&logo=github)](https://github.com/strangerforge)
-[![Niyaz](https://img.shields.io/badge/Diğer%20Proje-Niyaz%20Mobile-1B6B4A?style=flat-square&logo=appveyor)](https://github.com/strangerforge/Niyaz)
-[![AI Günlük](https://img.shields.io/badge/Canlı-AI%20Günlük-4F46E5?style=flat-square&logo=vercel)](https://aigunluk.vercel.app)
+<a href="https://github.com/strangerforge"><img src="https://img.shields.io/badge/Creator-strangerforge-181717?style=flat-square&logo=github" alt="Creator" /></a>&nbsp;<a href="https://github.com/strangerforge/engramkeep"><img src="https://img.shields.io/badge/Open%20Source-Engramkeep-10B981?style=flat-square&logo=pypi&logoColor=white" alt="Engramkeep" /></a>&nbsp;<a href="https://github.com/strangerforge/Niyaz"><img src="https://img.shields.io/badge/Mobile-Niyaz-1B6B4A?style=flat-square&logo=capacitor&logoColor=white" alt="Niyaz" /></a>
 
 </div>
